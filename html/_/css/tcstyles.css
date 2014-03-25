@@ -1,0 +1,422 @@
+/*import fonts*/
+@font-face { font-family: Bebas; src: url('../fonts/BEBAS.ttf'); }
+@font-face { font-family: writing; src: url("/..fonts/bell-mt.ttf"); }
+
+/* -------------------------------- */
+/* ---------- GLOBAL STYLES ------- */
+/* -------------------------------- */
+
+/* body fixes navbar overlapping the jumbotron */
+body { padding-top: 5%; }
+
+.jumbotron { 
+	margin-bottom: 0px; 
+	padding-top: 110px !important; /*override bootstrap*/ 
+	height: 850px;
+	margin-bottom: 0px !important; /*override bootstrap*/ 
+}
+
+.spacing {
+	padding-top: 150px;
+}
+
+.pushdown20px {	margin-bottom: 20px; }
+
+.pushdown50px {	margin-bottom: 50px; }
+
+.pushdown70px {	margin-bottom: 70px; }
+
+.pushdown100px { margin-bottom: 100px; }
+
+
+/*.jumbotron2 { 
+	height: 850px;
+	padding-top: 150px; 
+	color: inherit; 
+}
+
+.jumbotron2 .jumbo_content p {
+	margin-top: 40px;
+}*/
+
+h1.font-bebas2 { 
+	font-family: Bebas; 
+	color: inherit;
+	text-align: center; 
+	word-spacing: 15px; 
+	font-size: 70px; }
+
+h2.font-bebas { font-family: Bebas; 
+	font-size: 25px; 
+}
+
+div.jumbo_content p { 
+	font-family: writing, serif; 
+	font-style: normal;
+	margin-top: 40px;
+}
+
+/*fonts styling*/
+.font-bebas-sm { 
+	display: block; 
+	text-align: right;
+
+	/*Font styles*/
+	color: white;
+	font-family: Bebas, Helvetica, sans-serif;
+	font-size: 75%;
+	letter-spacing: 2px;
+	line-height: 24px;
+}
+
+.font-bebas { font-family:Bebas, sans-serif; }
+.font-writing { font-family:writing, serif; }
+
+.big_p {
+	font-size: 24px !important; /*overriding bootstrap*/
+}
+
+.med_p {
+	font-size: 20px !important; /*overriding bootstrap*/
+}
+
+.small_p {
+	font-size: 1.2em !important; /*overriding bootstrap*/
+}
+
+.white_txt {
+	color: #FFF !important;
+}
+
+.center_txt {
+	text-align: center;
+}
+
+.bold_txt { font-weight: 500;}
+
+
+/*colors*/
+.lightblue { color: #7DCDF3 !important;}
+.pink { color: #E8377A !important;}
+.dark_red { color: #A5313A !important;}
+.dark_blue { color: #0074D9 !important;}
+.purple { color: #8E6EB0 !important;}
+.orange {color: #F17735 !important;}
+
+/*background colors for different pages*/
+.bg_lightblue { background-color: #7DCDF3 !important;} /*overriding bootstrap*/
+.bg_pink { background-color: #E8377A !important;} /*overriding bootstrap*/
+.bg_dark_red { background-color: #A5313A !important;} /*overriding bootstrap*/
+.bg_dark_blue { background-color: #0074D9 !important;} /*overriding bootstrap*/
+.bg_purple { background-color: #8E6EB0 !important;} /*overriding bootstrap*/
+.bg_orange { background-color: #F17735 !important;} /*overriding bootstrap*/
+.bg_white { background-color: #FFF !important;} /*overriding bootstrap*/
+
+/*nav hovers colors*/
+ .lightblue-hover:hover { color: #7DCDF3 !important;}
+ .pink-hover:hover { color: #E8377A !important;}
+ .dark_red-hover:hover { color: #A5313A !important;}
+ .dark_blue-hover:hover { color: #0074D9 !important;}
+ .purple-hover:hover { color: #8E6EB0 !important;}
+ .orange-hover:hover { color: #F17735 !important;}
+
+li.tourslink a { color: #7DCDF3 !important;}
+li.speciallink a { color: #E8377A !important;}
+li.corplink a { color: #0074D9 !important;}
+li.contactlink a { color: #8E6EB0 !important;}
+li.storylink a { color: #F17735 !important;}
+
+
+
+
+
+
+
+
+
+/* -------------------------------- */
+/* ---------- NAVIGATION ---------- */
+/* -------------------------------- */
+
+img.tc_logo {
+	float: left; 
+	max-width: 25%; 
+	padding: 8px 0 0 0; 
+	min-width: 60px;
+	margin-right: 10px;
+}
+
+a.navbar-brand { 
+	width: 25% ;
+	height: 50%; 
+	min-width: 150px; 
+	padding: 15px 5px;
+}
+
+.navbar-brand h3.font-bebas { 
+	/*padding: 0 0 0 85px;*/ 
+	display: inline-block;
+	font-family: Bebas; 
+	color: white; 
+	letter-spacing: 3px; 
+	text-align: right;
+}
+
+ul.navbar-right { 
+	padding-top: 33px; 
+}
+
+/*#home .navbar-nav li a:hover {
+	color: #A5313A;
+}*/
+
+	/*navbar menu responsive styling*/
+	@media (min-width: 992px) {
+
+		a.navbar-brand { 
+			width: 266px; }
+
+		ul.navbar-right { padding-top: 33px; }
+	}
+
+	@media (max-width: 992px) {
+
+		a.navbar-brand { 
+			width: 266px;
+			position: relative;
+			left: 31px;
+		}
+
+		ul.navbar-right { padding-top: 0px; }
+	}
+
+	@media (max-width: 767px) {
+
+		a.navbar-brand { 
+			width: 150px;
+			position: relative;
+			left: 0px;}
+	}	
+	/* end of navbar menu responsive styling*/
+
+
+/* -------------------------------- */
+/* ---------- CAROUSEL ------------ */
+/* -------------------------------- */
+	
+.carousel-caption {
+	margin-bottom: 300px;
+	background-color: rgba(30,30,30,0.5);
+	padding: 0px 20px;
+	}
+
+
+.carousel-caption h1 {
+
+	/*Font styles*/
+	font-size: 4em;
+}
+
+.carousel-caption p {
+	margin-top: 20px;
+
+	/*Font styles*/
+
+	font-size: 1.2em;
+	font-weight: light;
+}
+
+.findout_btn {
+	margin-top: 30px;
+	border-radius: 10px !important; /*overriding bootstrap*/
+	border-bottom: 3px solid #269abc !important; /*overriding bootstrap*/
+}
+
+ol.carousel-indicators {
+	margin-bottom: 200px;
+}
+
+
+/* -------------------------------- */
+/* ---------- JUMBOTRONS ---------- */
+/* -------------------------------- */
+
+
+/* title pages */
+
+div.timeless_title {
+	height: 650px !important;
+}
+.header_msg {
+	height: 780px;
+	padding-top: 150px;
+}
+
+.header_msg h1.font-bebas.big_timeless {
+	font-size: 11.3em;
+}
+.header_msg h1.font-bebas {
+
+	font-size: 6em; 
+	font-family: Bebas; 
+	color: black; 
+	text-align: center; 
+	word-spacing: 15px;
+}
+
+.header_msg p {
+	margin-top: 40px;
+	min-width: 525px;
+	text-align: center;
+}
+
+
+/*mission styles*/
+
+.mission_why {
+	height: 500px;
+}
+
+.mission_why .jumbo_content p {
+	margin-top: 40px;
+}
+
+
+/* blog feed styles */
+
+.blogfeed h2 { margin-top: 80px;}
+
+/*what we can do together styles*/
+
+.whatwecando h2 { 
+	margin-top: 80px;
+	}
+
+.whatwecando .third-third {
+	padding-top: 112px;
+}
+
+
+/* lets get started styles */
+
+div.startsection {
+	padding-top: 85px !important; /* overriding jumbotron*/
+	height: 450px;
+	margin: 0px;
+	margin-bottom: 0px;
+
+	/*inset box shadow*/
+	-moz-box-shadow:    inset  0  40px 40px -40px #555, 
+                        inset  0 -40px 40px -40px #555;
+    -webkit-box-shadow: inset  0  40px 40px -40px #555, 
+                        inset  0 -40px 40px -40px #555;
+     box-shadow:        inset  0  40px 40px -40px #555, 
+                        inset  0 -40px 40px -40px #555;
+
+}
+
+.startsection h1 {
+	font-size: 6em;
+	display: inline-block;
+}
+
+button#getstarted {
+	height: 123px;
+	width: 400px;
+
+	/*Font styles*/
+	font-size: 3em;
+	font-weight: bold;
+	text-shadow: 0px 2px 5px #4cae4c;
+	border-bottom: 5px solid #4cae4c;
+	border-radius: 30px !important;
+}
+
+button#getstarted:hover {
+	border-color: #398439 !important;
+}
+
+img.tcnyou {
+	height: 120px;
+	display: inline-block;
+	margin: 0px 15px;
+	position: relative;
+	bottom: 34px;
+}
+
+
+		@media (min-width: 1200px){
+		.col-lg-5 { width: 50%; position: relative; min-height: 1px; margin-left: 295px; margin-top: 20px; }
+		}
+
+		@media (min-width: 1200px){
+			.col-lg-2 { width: 20%; position: relative; min-height: 1px; margin-left: 365px; }
+		}
+		@media (min-width: 1200px){
+			.col-lg-3 { width: 20%; position: relative; min-height: 1px; margin-left: 40px; }
+		}
+
+		@media screen and (min-width: 768px) {
+			.jumbotron2 { padding-top: 48px; padding-bottom: 48px; }
+		}
+
+
+
+/* -------------------------------- */
+/* ---------- FOOTER -------------- */
+/* -------------------------------- */
+
+.footer {
+	background-color: #222;
+	border-color: #080808;
+	color: #555;
+
+	height: 200px;
+	padding: 50px 0px;
+}
+
+.footer p {
+	font-size: 0.9em;
+}
+
+.footer .third-third {
+	text-align: right;
+}
+
+.footer .second-third {
+	text-align: center;
+}
+
+.footer .first-third h4 {
+	display: inline-block;
+	color: #0084b4;
+}
+
+.footer .first-third h4:hover {
+	color: white;
+}
+
+.footer .first-third a:hover {
+	text-decoration: none !important;
+}
+
+.footer .twitter {
+	height: 20px;
+	margin-bottom: 12px;
+	margin-left: 8px;
+}
+
+img.arrow_down {
+	height: 40px;
+	margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+

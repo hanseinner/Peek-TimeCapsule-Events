@@ -1,0 +1,129 @@
+h1.font-bebas2 {
+	color: white !important;
+}
+
+h1.font-bebas2_special {
+font-family: Bebas;
+color: #E8377A;
+text-align: center;
+word-spacing: 15px;
+font-size: 70px !important;
+padding-bottom: 40px;
+}
+
+h3.font-bebas2 {
+	color: white !important;
+	font-family: Bebas;
+	text-align: center;
+	word-spacing: 15px;
+	padding-top: 65px;
+}
+
+.img-responsive_social {
+	display: inline;
+	max-width: 150px;
+	/*
+	padding-top: 25px;
+	margin-left: 35px;
+	*/
+}
+
+/* Position of second jumbotron icon */
+.col-md-4 {
+width: 130px !important;
+margin-left: 85px;
+margin-top: 25px;
+}
+
+h3.names_service { 
+	font-size: 18px;
+	color: white;
+	text-align: center;
+ }
+
+/*fix height in jumbotron2 packages */
+ .special_why {
+ 	height: 1070px !important;
+ }
+
+
+/* Packages special events */
+.tours_about h3.font-bebas {
+	margin-top: 70px;
+}
+
+p.pkg_desc {
+	margin-bottom: 40px;
+}
+
+img.pkg_icons {
+	height: 30px !important;
+	display: inline-block;
+	margin-bottom: 9px;
+
+}
+
+.pkg_info {
+	display: inline-block;
+	word-spacing: 0.1em;
+}
+
+.pkg_info_sm {
+	font-size: 0.6em;
+	margin-left: 5px;
+}
+
+.pkg_thumb_pic1{
+	margin-top: 95px;
+	max-width: 340px;
+}
+
+.pkg_thumb_pic {
+	margin-top: 0px;
+	max-width: 340px;
+}
+
+div.special_packages {
+	height: 2010px !important;
+	padding-top: 150px !important;
+}
+
+/* Color for big_p */
+.special_p {
+	color: white !important;
+	padding-bottom: 70px;
+}
+
+/* Positioning of final jumbotron */
+.col-md-6{
+	width: 130px !important;
+	/*
+	padding-left: 13px !important;
+	padding-right: 8px !important;
+	*/
+	margin-left: 25px;
+	margin-top: 25px;
+}
+
+h3.names_options {
+	font-size: 18px;
+	color: white;
+	text-align: center;
+	/*
+	padding-left: 35px;
+	*/
+}
+
+/*  Fix button clash with other column 4 */
+.col-md-3 {
+	width: 30% !important;
+} 
+
+.wedding_talks {
+	height: 1120px !important;
+}
+
+/* Spacing between package */
+.spacing1 {
+	padding-top: 215px;
+}

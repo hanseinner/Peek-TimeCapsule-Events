@@ -1,0 +1,225 @@
+div.mystory {
+	height: 630px;
+}
+
+
+.pic_jumbo {
+	height: 340px;
+	padding: 0px;
+}
+
+.pic_jumbo2 {
+	height: 340px;
+	padding: 0px;
+}
+
+.pic_jumbo3 {
+	height: 340px;
+	padding: 0px;
+}
+
+.pic_jumbo4 {
+	height: 340px;
+	padding: 0px;
+}
+
+.pic_jumbo5 {
+	height: 340px;
+	padding: 0px;
+}
+
+.pic_jumbo6 {
+	height: 340px;
+	padding: 0px;
+}
+
+
+/* text alignment */
+.text_jumbo {
+	height: 500px;
+}
+
+.text_jumbo1{
+	height: 355px;
+}
+
+.text_jumbo2{
+	height: 455px;
+}
+
+.text_jumbo3{
+	height: 380px;
+}
+
+
+/* images */
+
+/* First */
+.pic_jumbo .first-third {
+	background-image: url("/images/rahwa_images/travel_1.jpg");
+	height: 340px;
+	margin-top: -110px;
+	
+}
+
+.pic_jumbo .second-third {
+	background-image: url("/images/rahwa_images/wedding_6.jpg");
+	height: 340px;
+	margin-top: -110px;	
+}
+
+.pic_jumbo .third-third {
+	background-image: url("/images/rahwa_images/race_2.jpg");
+	height: 340px;
+	margin-top: -110px;	
+}
+
+
+/* Second */
+.pic_jumbo2 .first-third {
+	background-image: url("/images/rahwa_images/picture.jpg");
+	height: 340px;
+	margin-top: -110px;
+	
+}
+
+
+.pic_jumbo2 .second-third {
+	background-image: url("/images/rahwa_images/working.jpg");
+	height: 340px;
+	margin-top: -110px;	
+}
+
+.pic_jumbo2 .third-third {
+	background-image: url("/images/rahwa_images/berry.jpg");
+	height: 340px;
+	margin-top: -110px;	
+}
+
+
+/* Third */
+.pic_jumbo3 .first-third {
+	background-image: url("/images/rahwa_images/cake_1.jpg");
+	height: 340px;
+	margin-top: -110px;
+	
+}
+
+.pic_jumbo3 .second-third {
+	background-image: url("/images/rahwa_images/flowers.jpg");
+	height: 340px;
+	margin-top: -110px;	
+}
+
+.pic_jumbo3 .third-third {
+	background-image: url("/images/rahwa_images/berry.jpg");
+	height: 340px;
+	margin-top: -110px;	
+}
+
+
+/* Fourth */
+.pic_jumbo4 .first-third {
+	background-image: url("/images/rahwa_images/signing.jpg");
+	height: 340px;
+	margin-top: -110px;
+	
+}
+
+.pic_jumbo4 .second-third {
+	background-image: url("/images/rahwa_images/business_1.jpg");
+	height: 340px;
+	margin-top: -110px;	
+}
+
+.pic_jumbo4 .third-third {
+	background-image: url("/images/rahwa_images/tourist.jpg");
+	height: 340px;
+	margin-top: -110px;	
+}
+
+
+/* Fifth */
+.pic_jumbo5 .first-third {
+	background-image: url("/images/rahwa_images/city.jpg");
+	height: 340px;
+	margin-top: -110px;
+	
+}
+
+.pic_jumbo5 .second-third {
+	background-image: url("/images/rahwa_images/tour_1.jpg");
+	height: 340px;
+	margin-top: -110px;	
+}
+
+.pic_jumbo5 .third-third {
+	background-image: url("/images/rahwa_images/wind_surf.jpg");
+	height: 340px;
+	margin-top: -110px;	
+}
+
+/* Sixth */
+.pic_jumbo6 .first-third {
+	background-image: url("/images/rahwa_images/mystory_6.jpg");
+	height: 340px;
+	margin-top: -110px;
+	background-repeat: no-repeat fix center;
+}
+
+.pic_jumbo6 .second-third {
+	background-image: url("/images/rahwa_images/city_water.jpg");
+	height: 340px;
+	margin-top: -110px;
+	background-repeat: no-repeat;
+}
+
+.pic_jumbo6 .third-third {
+	background-image: url("/images/rahwa_images/city_2.jpg");
+	height: 340px;
+	margin-top: -110px;	
+}
+
+/* Packages special events */
+.tours_about h3.font-bebas {
+	margin-top: 70px;
+}
+
+p.pkg_desc {
+	margin-bottom: 40px;
+}
+
+img.pkg_icons {
+	height: 30px !important;
+	display: inline-block;
+	margin-bottom: 9px;
+
+}
+
+.pkg_info {
+	display: inline-block;
+	word-spacing: 0.1em;
+}
+
+.pkg_info_sm {
+	font-size: 0.6em;
+	margin-left: 5px;
+}
+
+.pkg_thumb_pic1{
+	margin-top: 95px;
+}
+
+.pkg_thumb_pic {
+	margin-top: 0px;
+}
+
+div.special_packages {
+	height: 1820px !important;
+	padding-top: 100px !important;
+}
+
+/* height problem */
+.height_me{
+	margin-top: -200px;
+}

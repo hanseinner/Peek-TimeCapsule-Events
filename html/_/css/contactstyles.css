@@ -1,0 +1,122 @@
+
+
+.contactdeets h4 {
+	text-align: center;
+}
+
+.contactdeets .col:last-child h4 {
+	text-align: left;
+	margin-left: 110px;
+	line-height: 22px;
+}
+
+.contactdeets img {
+	height: 50px;
+	width: 50px;
+}
+
+
+.contactmsg {
+	height: 1150px;
+}
+
+.enquiry_form {
+	color: #58456E;
+}
+
+.enquiry_form input {
+	padding: 5px 10px;
+	background-color: #58456E;
+	border: none;
+	border-radius: 5px;
+	color: white;
+}
+
+.enquiry_form input:hover {
+	padding: 5px 10px;
+	background-color: white;
+	border: none;
+	border-radius: 5px;
+	color: #58456E;
+}
+
+.enquiry_form input:focus {
+	padding: 5px 10px;
+	background-color: white;
+	border: none;
+	border-radius: 5px;
+	color: #58456E;
+}
+
+.enquiry_form select {
+	padding: 5px 10px;
+	background-color: #58456E;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	cursor: pointer; 
+}
+
+
+
+.enquiry_form select:hover {
+	padding: 5px 10px;
+	background-color: white;
+	border: none;
+	border-radius: 5px;
+	color: #58456E;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	cursor: pointer; 
+}
+
+.enquiry_form textarea {
+
+	height: 250px;
+	width: 100%;
+	padding: 5px 10px;
+	background-color: #58456E;
+	border: none;
+	border-radius: 5px;
+	color: white;
+}
+
+.enquiry_form textarea:hover {
+	background-color: white;
+	color: #58456E;
+}
+
+.enquiry_form textarea:focus {
+
+	background-color: white;
+	color: #58456E;
+}
+
+.msgbuttons button {
+	display: inline-block;
+}
+
+.msgbuttons {
+	padding-right: 20px;
+}
+
+#sendmsgbutton {
+	border-radius: 10px !important;
+	border-bottom: 3px solid #4cae4c !important;
+}
+
+#sendmsgbutton:hover {
+	border-color: #398439 !important;
+}
+
+#resetmsgbutton {
+	border-radius: 10px !important;
+	border-bottom: 3px solid #d58512 !important;
+}
+
+#resetmsgbutton span.glyphicon, #sendmsgbutton span.glyphicon {
+	margin-right: 10px;
+}
+

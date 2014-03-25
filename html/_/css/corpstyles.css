@@ -1,0 +1,33 @@
+
+div.doforall {
+	height: 1100px;
+}
+
+div.doforall h1 {
+	margin-bottom: 80px;
+	text-align: center;
+	color: white;
+}
+
+div.doforall h2 {
+	text-align: center;
+	color: white;
+}
+
+.corp_icon {
+	display: inline;
+	max-width: 100px;
+	padding-top: 25px;
+	margin-left: 55px;
+}
+
+h3.corp_options {
+	font-size: 18px;
+	color: white;
+	text-align: center;
+}
+
+.text_color{
+	color: #333;
+}
+
