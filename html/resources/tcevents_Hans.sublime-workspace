@@ -1,0 +1,419 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"filters",
+				"filters_info"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"close",
+				"close_matches"
+			],
+			[
+				"fb",
+				"fb_post-link"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"verfy",
+				"verifyNoBtn"
+			],
+			[
+				"public",
+				"public_media"
+			],
+			[
+				"publi",
+				"public_media"
+			],
+			[
+				"left",
+				"left_grid"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"portfo",
+				"portfolio_info_top"
+			],
+			[
+				"portfolio",
+				"portfolio_small_date"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"bg-",
+				"background-color"
+			],
+			[
+				"bg",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"snippet",
+				"Snippet: HTML - Google Analytics"
+			],
+			[
+				"file",
+				"File: Save All"
+			],
+			[
+				"Snippet: lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: html",
+				"Snippet: HTML - HTML foundation"
+			],
+			[
+				"Snippet: ",
+				"Snippet: HTML - HTML foundation"
+			],
+			[
+				"Snippet: p",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hanseinnerbarroga/Sites/TCEvents/index.php",
+		"/Users/hanseinnerbarroga/Sites/TCEvents/corporate.html",
+		"/Users/hanseinnerbarroga/Sites/TCEvents/_/css/tcstyles.css",
+		"/Users/hanseinnerbarroga/Sites/TCEvents/index.html",
+		"/Users/hanseinnerbarroga/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/hanseinnerbarroga/Sites/TCEvents/_/components/js/_tcscripts.js",
+		"/Users/hanseinnerbarroga/Sites/TCEvents/_/components/js/_bootstrap.js",
+		"/Users/hanseinnerbarroga/Sites/TCEvents/_/components/less/bootstrap.less",
+		"/Users/hanseinnerbarroga/Sites/TCEvents/_/components/less/_tcstyles.less",
+		"/Users/hanseinnerbarroga/Documents/Design Projects/Development/TCEvents/index.html",
+		"/Users/hanseinnerbarroga/Documents/Design Projects/Development/TCEvents/css/style.css",
+		"/Users/hanseinnerbarroga/Dropbox/CeeQ Internship/ceeqtm/CeeQTM.html",
+		"/Users/hanseinnerbarroga/Dropbox/CeeQ Internship/ceeqtm/report.html",
+		"/Users/hanseinnerbarroga/Sites/jQueryMobile/wordstreet.html",
+		"/Users/hanseinnerbarroga/Sites/decoexamples/index.html",
+		"/Users/hanseinnerbarroga/Dropbox/ceeq-dev-intern/ceeq_templates/public/results_new (Zainab A R Omar's conflicted copy 2013-08-07).html",
+		"/Users/hanseinnerbarroga/Dropbox/ceeq-dev-intern/ceeq_templates/media/css/overlay.css",
+		"/Users/hanseinnerbarroga/Dropbox/ceeq-dev-intern/ceeq_templates/media/ceeq-icons/bkmark_photo.svg",
+		"/Users/hanseinnerbarroga/Dropbox/ceeq-dev-intern/ceeq_templates/media/ceeq-icons/close.png",
+		"/Users/hanseinnerbarroga/Dropbox/ceeq-dev-intern/ceeq_templates/media/css/style.css",
+		"/Users/hanseinnerbarroga/Dropbox/ceeq-dev-intern/ceeq_templates/public/results_new.html",
+		"/Users/hanseinnerbarroga/Dropbox/ceeq-dev-intern/ceeq_templates/public/base.html",
+		"/Users/hanseinnerbarroga/Dropbox/infs3202 - Prac5/prac5/remove.php",
+		"/Users/hanseinnerbarroga/Dropbox/infs3202 - Prac5/prac5/jquery-1.9.1.min.js",
+		"/Users/hanseinnerbarroga/Dropbox/infs3202 - Prac5/prac5/getuser.php",
+		"/Users/hanseinnerbarroga/Dropbox/infs3202 - Prac5/prac5/edit.php",
+		"/Users/hanseinnerbarroga/Dropbox/infs3202 - Prac5/prac5/connectMySQL.php",
+		"/Users/hanseinnerbarroga/Sites/wordpress/wp-content/themes/Nimble/footer.php",
+		"/Users/hanseinnerbarroga/Dropbox/Table MobilSnitch/index.html",
+		"/Users/hanseinnerbarroga/Sites/wordpress/wp-content/themes/Nimble/functions.php",
+		"/Users/hanseinnerbarroga/Desktop/pricing_shortcode.html",
+		"/Users/hanseinnerbarroga/Desktop/quickstart.html",
+		"/Volumes/NO NAME/MobileSnitch/accordion.html",
+		"/Users/hanseinnerbarroga/Sites/wordpress/wp-content/themes/Nimble/style.css",
+		"/Users/hanseinnerbarroga/Sites/wordpress/wp-content/themes/Nimble/epanel/shortcodes/css/shortcodes.css",
+		"/Users/hanseinnerbarroga/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/hanseinnerbarroga/Sites/infs3202/lightbox/js/lightbox.js",
+		"/Users/hanseinnerbarroga/Sites/infs3202/breakfast.html",
+		"/Users/hanseinnerbarroga/Sites/wordpress/wp-content/themes/twentytwelve/page.php",
+		"/Users/hanseinnerbarroga/Sites/wordpress/wp-content/themes/twentytwelve/style.css",
+		"/Users/hanseinnerbarroga/Sites/wordpress/wp-content/themes/twentytwelve/functions.php",
+		"/Users/hanseinnerbarroga/Sites/wordpress/index.php",
+		"/Users/hanseinnerbarroga/Sites/wordpress/wp-content/themes/twentytwelve/content.php",
+		"/Users/hanseinnerbarroga/Sites/wordpress/wp-content/themes/twentytwelve/header.php",
+		"/Users/hanseinnerbarroga/Sites/wordpress/wp-content/themes/twentytwelve/page-templates/full-width.php",
+		"/Users/hanseinnerbarroga/Sites/wordpress/wp-content/themes/ChildOftwentytwelve/page.php",
+		"/Users/hanseinnerbarroga/Sites/wordpress/wp-content/themes/ChildOftwentytwelve/header.php",
+		"/Users/hanseinnerbarroga/Sites/wordpress/wp-content/themes/ChildOftwentytwelve/functions.php",
+		"/Users/hanseinnerbarroga/Downloads/WebsiteScrolling/css/style.css",
+		"/Users/hanseinnerbarroga/Downloads/WebsiteScrolling/index.html",
+		"/Users/hanseinnerbarroga/Dropbox/DECO3000 Summer/Project Gantt Chart.pod"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h2",
+			"li",
+			"link",
+			"filters_info label",
+			"#text-search",
+			"5cm",
+			"label-primary",
+			"img_td",
+			"#sortBy",
+			"[[thumb_url]]",
+			"thumb_url",
+			"improveSearchBanner",
+			"userSearch",
+			"ImproveSearchBannerHolder",
+			"fetchNewUserfaces",
+			"overlay",
+			"photo_grid",
+			"fetchResults",
+			"fb_post-link",
+			"btnSearch",
+			"fetchResults",
+			"fetch",
+			"uploaded",
+			"red",
+			"uploaded",
+			"/public_media",
+			"search",
+			"row",
+			"fb_post-link",
+			"photoSec",
+			"photo_id",
+			"verifyNoBtn",
+			"offset",
+			"tag_checkbox",
+			"tag_checkboxes",
+			"<img",
+			"photo_grod",
+			"photos ",
+			"photoGrid",
+			"960_12",
+			"<link rel=\"stylesheet\"",
+			"head",
+			"grid_",
+			"grid",
+			"container_12",
+			"group",
+			"inner_box",
+			"width:64px",
+			"height:64px",
+			"FragmentManager fm",
+			"a.learn-more",
+			"portfolio_description",
+			"a.learn-more",
+			".pricing-table {",
+			"quick_start_li",
+			"quick_start_h2",
+			"<li>",
+			"</h2>",
+			"<h2>",
+			"get_",
+			"get_header()",
+			"get_template",
+			"get",
+			"wrapper",
+			"define"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"</h3>",
+			"<h3>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.624159414557,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true
+}
