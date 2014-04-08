@@ -7,7 +7,12 @@
 /* -------------------------------- */
 
 /* body fixes navbar overlapping the jumbotron */
-body { padding-top: 5%; }
+body { 
+	padding-top: 5%; 
+
+	/*Font styles*/
+	font-family: Helvetica Neue, Arial, sans-serif;
+}
 
 .jumbotron { 
 	margin-bottom: 0px; 
@@ -28,26 +33,13 @@ body { padding-top: 5%; }
 
 .pushdown100px { margin-bottom: 100px; }
 
-
-/*.jumbotron2 { 
-	height: 850px;
-	padding-top: 150px; 
-	color: inherit; 
-}
-
-.jumbotron2 .jumbo_content p {
-	margin-top: 40px;
-}*/
-
 h1.font-bebas2 { 
 	font-family: Bebas; 
-	color: inherit;
 	text-align: center; 
 	word-spacing: 15px; 
 	font-size: 70px; }
 
 h2.font-bebas { font-family: Bebas; 
-	font-size: 25px; 
 }
 
 div.jumbo_content p { 
@@ -72,26 +64,14 @@ div.jumbo_content p {
 .font-bebas { font-family:Bebas, sans-serif; }
 .font-writing { font-family:writing, serif; }
 
-.big_p {
-	font-size: 24px !important; /*overriding bootstrap*/
-}
+.big_p { font-size: 24px !important; } /*overriding bootstrap*/
+.med_p { font-size: 20px !important; } /*overriding bootstrap*/
+.small_p { font-size: 1.2em !important; } /*overriding bootstrap*/
 
-.med_p {
-	font-size: 20px !important; /*overriding bootstrap*/
-}
+.white_txt { color: #FFF !important; }
+.darkred_txt { color: #5C1B20 !important;}
 
-.small_p {
-	font-size: 1.2em !important; /*overriding bootstrap*/
-}
-
-.white_txt {
-	color: #FFF !important;
-}
-
-.center_txt {
-	text-align: center;
-}
-
+.center_txt { text-align: center; }
 .bold_txt { font-weight: 500;}
 
 
@@ -279,6 +259,12 @@ div.timeless_title {
 
 .mission_why .jumbo_content p {
 	margin-top: 40px;
+	text-align: center;
+
+	/*Font styles*/
+	font-size: 22px;
+	font-weight: 300;
+	color: #F5F5F5;
 }
 
 
@@ -287,15 +273,13 @@ div.timeless_title {
 .blogfeed h2 { margin-top: 80px;}
 
 /*what we can do together styles*/
+.whatwecando {
+	height: 1000px;
+}
 
 .whatwecando h2 { 
 	margin-top: 80px;
 	}
-
-.whatwecando .third-third {
-	padding-top: 112px;
-}
-
 
 /* lets get started styles */
 
@@ -320,6 +304,97 @@ div.startsection {
 	display: inline-block;
 }
 
+.lightblue { color: #7DCDF3 !important;}
+.pink { color: #E8377A !important;}
+.dark_red { color: #A5313A !important;}
+.dark_blue { color: #0074D9 !important;}
+.purple { color: #8E6EB0 !important;}
+.orange {color: #F17735 !important;}
+
+.btn-dark_red {
+	background-color: #A5313A !important;
+	border-bottom: 5px solid #5C1B20 !important;
+	border-radius: 30px !important;
+	text-shadow: 0px 2px 5px #5C1B20;
+}
+
+.btn-dark_red:hover {
+	border-color: #5C1B20 !important;
+	background-color: #8A2930 !important;
+}
+
+.btn-lightblue {
+	background-color: #7DCDF3 !important;
+	border-bottom: 5px solid #5992AD !important;
+	border-radius: 30px !important;
+	text-shadow: 0px 2px 5px #5992AD;
+}
+
+.btn-lightblue:hover {
+	border-color: #5992AD !important;
+	background-color: #6DB3D4 !important;
+}
+
+.btn-dark_blue {
+	background-color: #0074D9 !important;
+	border-bottom: 5px solid #0057A3 !important;
+	border-radius: 30px !important;
+	text-shadow: 0px 2px 5px #0057A3;
+}
+
+.btn-dark_blue:hover {
+	border-color: #0057A3 !important;
+	background-color: #0065BD !important;
+}
+
+.btn-pink {
+	background-color: #E8377A !important;
+	border-bottom: 5px solid #B82C61 !important;
+	border-radius: 30px !important;
+	text-shadow: 0px 2px 5px #B82C61;
+}
+
+.btn-pink:hover {
+	border-color: #B82C61 !important;
+	background-color: #CF316D !important;
+}
+
+.btn-orange {
+	background-color: #F17735 !important;
+	border-bottom: 5px solid #BF5E2A !important;
+	border-radius: 30px !important;
+	text-shadow: 0px 2px 5px #BF5E2A;
+}
+
+.btn-orange:hover {
+	border-color: #BF5E2A !important;
+	background-color: #DE6E31 !important;
+}
+
+.btn-purple {
+	background-color: #58456E !important;
+	border-bottom: 5px solid #473859 !important;
+	border-radius: 30px !important;
+	text-shadow: 0px 2px 5px #473859;
+}
+
+.btn-purple:hover {
+	border-color: #473859 !important;
+	background-color: #503E63 !important;
+}
+
+.btn-white {
+	background-color: #F9F9F9 !important;
+	border-bottom: 5px solid #C8C8C8 !important;
+	border-radius: 30px !important;
+	/*text-shadow: 0px 2px 5px #C8C8C8;*/
+}
+
+.btn-white:hover {
+	border-color: #C8C8C8 !important;
+	background-color: #F0F0F0 !important;
+}
+
 button#getstarted {
 	height: 123px;
 	width: 400px;
@@ -327,14 +402,20 @@ button#getstarted {
 	/*Font styles*/
 	font-size: 3em;
 	font-weight: bold;
-	text-shadow: 0px 2px 5px #4cae4c;
-	border-bottom: 5px solid #4cae4c;
-	border-radius: 30px !important;
+	color: #F5F5F5;
 }
 
-button#getstarted:hover {
-	border-color: #398439 !important;
+button#getstarted_inverted {
+	height: 123px;
+	width: 400px;
+
+	/*Font styles*/
+	font-size: 3em;
+	font-weight: bold;
+	color: #BF5E2A;
 }
+
+
 
 img.tcnyou {
 	height: 120px;

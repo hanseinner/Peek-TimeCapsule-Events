@@ -116,9 +116,9 @@
                         </div>
 
                         <div class="msgbuttons pull-right">
-                        		<button type="reset" id="resetmsgbutton" class="btn btn-warning btn-lg">
+                        		<button type="reset" id="resetmsgbutton" class="btn btn-dark_red btn-lg">
                         			<span class="glyphicon glyphicon-remove"></span>Clear</button>
-                            	<button type="submit" id="sendmsgbutton" class="btn btn-success btn-lg" >
+                            	<button type="submit" id="sendmsgbutton" class="btn btn-purple btn-lg" >
                             		<span class="glyphicon glyphicon-send"></span>Send</button>
 						</div>
 						

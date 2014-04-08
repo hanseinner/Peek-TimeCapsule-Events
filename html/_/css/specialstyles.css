@@ -29,9 +29,9 @@ h3.font-bebas2 {
 }
 
 /* Position of second jumbotron icon */
-.col-md-4 {
+.event_icons .col-md-4 img{
 width: 130px !important;
-margin-left: 85px;
+margin-left: 52px;
 margin-top: 25px;
 }
 
@@ -120,10 +120,14 @@ h3.names_options {
 } 
 
 .wedding_talks {
-	height: 1120px !important;
+	height: 1150px !important;
 }
 
 /* Spacing between package */
 .spacing1 {
 	padding-top: 215px;
+}
+
+.event_icons {
+	margin-bottom: 80px;
 }

@@ -81,6 +81,7 @@
 	border: none;
 	border-radius: 5px;
 	color: white;
+	resize: none;
 }
 
 .enquiry_form textarea:hover {
@@ -102,18 +103,13 @@
 	padding-right: 20px;
 }
 
-#sendmsgbutton {
+#sendmsgbutton, #resetmsgbutton {
+	color: #F5F5F5;
 	border-radius: 10px !important;
-	border-bottom: 3px solid #4cae4c !important;
+	border-bottom-width: 3px !important;
 }
 
-#sendmsgbutton:hover {
-	border-color: #398439 !important;
-}
-
-#resetmsgbutton {
-	border-radius: 10px !important;
-	border-bottom: 3px solid #d58512 !important;
+#sendmsgbutton:hover, #resetmsgbutton:hover; {
 }
 
 #resetmsgbutton span.glyphicon, #sendmsgbutton span.glyphicon {

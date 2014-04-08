@@ -79,13 +79,12 @@
 
     <div class="jumbotron mission_why bg_<?php echo $bg_color ?>">
         <div class="container">
-            <h1 class="font-bebas2 white_txt">WHY WE&rsquo;RE HERE</h1>
+            <h1 class="font-bebas2 darkred_txt">WHY WE&rsquo;RE HERE</h1>
             <div class="row">
                 <div class="jumbo_content col-lg-8 col-lg-offset-2">
-                    <p class="big_p"> We strive to make your day Timeless. 
-                    </p>
+                    <p> We strive to make your day Timeless.</p>
 
-                    <p class="big_p">Whether it’s a tour event with us, or you’re celebrating the most important milestone in your life –the day you say ‘I do’ and become an intertwined soul with your one and only – you will look back, and it will always be a time to remember. 
+                    <p>Whether it’s a tour event with us, or you’re celebrating the most important milestone in your life –the day you say ‘I do’ and become an intertwined soul with your one and only – you will look back, and it will always be a time to remember. 
                     </p>
                 </div>
             </div>
@@ -95,29 +94,36 @@
     <div class="jumbotron whatwecando bg_<?php echo $bg_color ?>">
         <div class="container">
 
-            <h1 class="font-bebas2 white_txt">WHAT WE CAN DO TOGETHER</h1>
+            <h1 class="font-bebas2 darkred_txt">WHAT WE CAN DO TOGETHER</h1>
+
+            <div class="jumbo_content">
+                <div class="col col-lg-4">
+                    <h2 class="darkred_txt">We are a group of people who will work with you to bring the best events to life.</h2>
+                </div>
+                <div class="col-lg-8">
+                    <h2 class="darkred_txt" style="margin-top: 180px;">We know how it works.</h2>
+                </div>
+            </div>
             
             <div class="jumbo_content ">
                <div class="first-third col col-lg-4">
-                <h2 class="white_txt">We are a group of people who will work with you to bring the best events to life.</h2>
-                <p class="small_p"> We plan events differently and have the right people to inspire your event and turn your dream into a memorable timeless event. We even have a visual media team and connections everywhere to deliver what is required on your day and beyond. 
+                <p class="small_p white_txt"> We plan events differently and have the right people to inspire your event and turn your dream into a memorable timeless event. We even have a visual media team and connections everywhere to deliver what is required on your day and beyond. 
 				</p>
                 
-                <p class="small_p">We’ve helped many couples transform their vision into reality, even when it seemed almost impossible. An example that always comes to mind was when I helped my long-time friend and her wedding with 700 guests. We created the most amazing day. Instead of giving people what they expected, we surprised and entertained. 
+                <p class="small_p white_txt">We’ve helped many couples transform their vision into reality, even when it seemed almost impossible. An example that always comes to mind was when I helped my long-time friend and her wedding with 700 guests. We created the most amazing day. Instead of giving people what they expected, we surprised and entertained. 
                 </p>
 
             </div>
 
             <div class="second-third col col-lg-4">
-                <h2 class="white_txt">We know how it works.</h2>
-                <p class="small_p"> I’ve been a bridesmaid countless times, a flower girl too, and travelled across 4 continents. I’ve managed events for a long time, and I see people become so frustrated at the experience. Some call it madness that I choose to help. I love taking on challenges and see people enjoy the outcome. 
+                <p class="small_p white_txt"> I’ve been a bridesmaid countless times, a flower girl too, and travelled across 4 continents. I’ve managed events for a long time, and I see people become so frustrated at the experience. Some call it madness that I choose to help. I love taking on challenges and see people enjoy the outcome. 
 				</p>
-				<p class="small_p">I genuinely find them wonderful, and the best events are those that happen with open communication between all parties. You can manage a crisis and they might be surprised with the outcome, but you manage the negative and knowing people is the first step to eliminating risk. Communication lifts the whole event and takes it off. 
+				<p class="small_p white_txt">I genuinely find them wonderful, and the best events are those that happen with open communication between all parties. You can manage a crisis and they might be surprised with the outcome, but you manage the negative and knowing people is the first step to eliminating risk. Communication lifts the whole event and takes it off. 
 				</p>
             </div>
 
             <div class="third-third col col-lg-4">
-                <p class="small_p">The nature of events is that something will go wrong every time, no matter how much planning is involved. That’s why we’re always prepared just in case that strap snaps, the bride needs help, or it rains on a day when sunshine was forecast. We see through the clouds and, at the end of the day, it’s a wonderful feeling, and people always remember our events as breathtaking and timeless.  
+                <p class="small_p white_txt">The nature of events is that something will go wrong every time, no matter how much planning is involved. That’s why we’re always prepared just in case that strap snaps, the bride needs help, or it rains on a day when sunshine was forecast. We see through the clouds and, at the end of the day, it’s a wonderful feeling, and people always remember our events as breathtaking and timeless.  
 				</p>
                 
 
@@ -137,7 +143,7 @@
                     </div>     
                 </div>
 
-                <button id="getstarted" type="button" class="btn btn-success center-block">Let&rsquo;s Get Started</button>
+                <button id="getstarted" type="button" class="btn btn-<?php echo $bg_color ?> center-block">Let&rsquo;s Get Started</button>
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
 

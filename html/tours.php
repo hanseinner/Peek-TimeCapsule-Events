@@ -47,18 +47,13 @@
             <div class="row">
                 <div class="jumbo_content col-lg-8 col-lg-offset-2">
                     
-                    <p class="big_p"> Are you traveling to Queensland and want to see it through the eye of a local? We’ll hold no secrets back. We’ll show it all to you! Brisbane is one of the least commercial cities in the world, and there is so much to see. Many visitors, and even some locals, don’t realise what it has to offer. 
+                    <p class="med_p"> Are you traveling to Queensland and want to see it through the eye of a local? We’ll hold no secrets back. We’ll show it all to you! Brisbane is one of the least commercial cities in the world, and there is so much to see. Many visitors, and even some locals, don’t realise what it has to offer. 
                     </p>
-                    <p class="big_p"> We stand for great customer service, and a fun adventure. Imagine it and we will make it happen! Or run with our idea and be assured that we don’t joke with the events that carry our name. We are determined to make your tour a very memorable one.
+                    <p class="med_p"> We stand for great customer service, and a fun adventure. Imagine it and we will make it happen! Or run with our idea and be assured that we don’t joke with the events that carry our name. We are determined to make your tour a very memorable one.
                     </p>
 
-                    <h3 class="font-bebas white_txt">HOW IT WORKS</h3>
-					<p class="big_p">It’s simple, we tap into how adventurous your spirit is! 
-                    </p>
-                    <p class="big_p">Our mission is to create a timeless event. Contact us and we’ll schedule you into an event you’ll talk about forever. 
-                    </p>
-                    <p class="big_p">
-                    You’ve got to enjoy time and make memories that last. You can either relax or push yourself and have a blast.</p>
+                    <h2 class="white_txt">How it works</h2>
+					<p class="med_p howitworks">It’s simple, we tap into how adventurous your spirit is! Our mission is to create a timeless event. Contact us and we’ll schedule you into an event you’ll talk about forever. You’ve got to enjoy time and make memories that last. You can either relax or push yourself and have a blast.</p>
                 </div>
             </div>
         </div> <!-- /.container -->
@@ -147,8 +142,8 @@
                <div class="first-third col col-lg-4">
                  <img class="tailored_icons center-block" src="_/svg/people-icon.svg" alt="Icon of people"/>
                 <h2 class="center-block">For You or a Group</h2>
-                <p>We can tailor your tour so that we can accommodate you by yourself, or you and your group as a whole.
-                The flexibility and choice is up to you.
+                <p class="center_txt">We can tailor your tour so that we can accommodate you by yourself, or you and your group as a whole.
+                <br/>The flexibility and choice is up to you.
                 </p>
 
             </div>
@@ -156,7 +151,7 @@
             <div class="second-third col col-lg-4">
                 <img class="tailored_icons center-block" src="_/svg/mixmatch-icon.svg" alt="Icon of mix and match"/>
                 <h2 class="center-block" >Mix and Match</h2>
-                <p>Mix and match between features of our Tour packages to suit your liking.
+                <p class="center_txt">Mix and match between features of our Tour packages to suit your liking.
                 </p>
 
             </div>
@@ -164,7 +159,7 @@
             <div class="third-third col col-lg-4">
                 <img class="tailored_icons center-block" src="_/svg/gift-icon.svg" alt="Icon of gift"/>
                 <h2 class="center-block">An Exclusive Item</h2>
-                <p>With a tailored tour, there is always an exclusive item included to spice up your experience.</p>
+                <p class="center_txt">With a tailored tour, there is always an exclusive item included to spice up your experience.</p>
 
             </div>
             </div> <!-- /.jumbo_content -->
@@ -181,7 +176,7 @@
                     </div>
                </div>
 
-                <button id="getstarted" type="button" class="btn btn-success center-block">Let's Get Started</button>
+                <button id="getstarted" type="button" class="btn btn-<?php echo $bg_color ?> center-block">Let's Get Started</button>
             
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->

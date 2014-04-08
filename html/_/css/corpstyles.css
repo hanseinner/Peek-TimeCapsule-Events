@@ -14,6 +14,10 @@ div.doforall h2 {
 	color: white;
 }
 
+div.doforall p {
+	text-align: center;
+}
+
 .corp_icon {
 	display: inline;
 	max-width: 100px;
@@ -28,6 +32,13 @@ h3.corp_options {
 }
 
 .text_color{
-	color: #333;
+	color: #F5F5F5;
 }
 
+.header_color {
+	color: #004682 !important;
+}
+
+.col-md-4 h3 {
+	color: #F5F5F5 !important;
+}

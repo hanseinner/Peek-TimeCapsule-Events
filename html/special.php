@@ -49,42 +49,44 @@
             <h1 class="font-bebas2">WHY WE&rsquo;RE HERE</h1>
             <div class="row">
                 <div class="jumbo_content col-lg-8 col-lg-offset-2">
-                    <p class="med_p special_p"> Time Capsule Events can help you organize a special event to suit your budget and vision.
-					Whether it’s a formal celebration, a warm home event or a grand event, we have wedding coordinators to plan and enhance events such as: 
-                    </p>
+                    <p class="med_p special_p center_txt"> Time Capsule Events can help you organize a special event to suit your budget and vision.
+					Whether it’s a formal celebration, a warm home event or a grand event, we have wedding coordinators to plan and enhance events such as -
+                </p>
 
-                    <!--<p>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    </p>-->
-                   <div class="row">
+                <div class="event_icons">
+                    <div class="row">
                         <div class="col-md-4">
-                             <img src="_/svg/cake_copy.svg" alt="Responsive image" class="img-responsive_social">
+                             <img src="_/svg/cake_copy.svg" alt="Birthday icon" class="img-responsive_social">
                               <h3 class="names_service">Birthdays</h3>
                         </div>
                         <div class="col-md-4">
-                                <img src="_/svg/cupcake_copy.svg" alt="Responsive image" class="img-responsive_social">
+                                <img src="_/svg/cupcake_copy.svg" alt="Kids Birthday icon" class="img-responsive_social">
                                  <h3 class="names_service">Kids Birthdays</h3>
                         </div>
                         <div class="col-md-4">
-                              <img src="_/svg/cross_copy.svg" alt="Responsive image" class="img-responsive_social">
+                              <img src="_/svg/cross_copy.svg" alt="Christening icon" class="img-responsive_social">
                              <h3 class="names_service">Christening</h3>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-4">
-                              <img src="_/svg/glass_copy.svg" alt="Responsive image" class="img-responsive_social">
-                              <h3 class="names_service">Hen's/Buck's Party</h3>
+                              <img src="_/svg/glass_copy.svg" alt="Hen's Party or Buck's Party icon" class="img-responsive_social">
+                              <h3 class="names_service">Hen's or Buck's Party</h3>
                         </div>
                         <div class="col-md-4">
-                             <img src="_/svg/ring_copy.svg" alt="Responsive image" class="img-responsive_social">
+                             <img src="_/svg/ring_copy.svg" alt="Engagements icon" class="img-responsive_social">
                              <h3 class="names_service">Engagements</h3>
                         </div>
                         <div class="col-md-4">
-                             <img src="_/svg/heart_copy.svg" alt="Responsive image" class="img-responsive_social">
+                             <img src="_/svg/heart_copy.svg" alt="Anniversary icons" class="img-responsive_social">
                              <h3 class="names_service">Anniversary</h3>
                         </div>
                     </div>
 
-					 <h3 class="font-bebas2">We can make it special and make it to reflect your personality.</h3>
+                </div>
+
+					 <h2 class="white_txt center_txt">We can make it special and make it  <br/>
+                        to reflect your personality.</h2>
             
                 </div>
             </div>
@@ -177,11 +179,13 @@
             <div class="row">
                 <div class="jumbo_content col-lg-8 col-lg-offset-2">
                     <p class="med_p special_p"> You have a vision of how your big day should look, and we catch that and make it a reality. Part of the
-					journey is identifying what you really want. We will work with you and understand you. We know people and meeting their expectations
-					is what we do best. We sit with you and discuss some of the following: 
+					journey is identifying what you really want. We will work with you and understand you. <br/>
+                    <br/>
+                    We know people and meeting their expectations is what we do best. We sit with you and discuss some of the following: 
                     </p>
-                    <div class="row">
                    
+                    <div class="event_icons">
+                    <div class="row">
                         <div class="col-md-6">
                              <img src="_/svg/special/guests.svg" alt="Responsive image" class="img-responsive_social">
                               <h3 class="names_options">Guests</h3>
@@ -225,9 +229,13 @@
                              <h3 class="names_options">Wedding Day</h3>
                         </div>
                     </div>
-					  <h3 class="font-bebas2"> We are there from the very beginning till after your wedding day, and it will be an 
-					  event you will always cherish.
-                    </h3>
+
+
+                    </div>
+
+					<h2 class="white_txt center_txt"> We are there from the very beginning till after your wedding day, and it will be an event <br />
+                      you will always cherish.
+                    </h2>
                 </div>
             </div>
         </div> <!-- /.container-->
@@ -244,7 +252,7 @@
                     </div>
                 </div>
 
-                <button id="getstarted" type="button" class="btn btn-success center-block">Let's Get Started</button>
+                <button id="getstarted" type="button" class="btn btn-<?php echo $bg_color ?> center-block">Let's Get Started</button>
             
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->

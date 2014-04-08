@@ -63,9 +63,9 @@
     </div> <!-- /.jumbotron-->
 
     <div class="jumbotron bg_white text_jumbo2">
-        <div class="container">
+        <div class="col-lg-10 col-lg-offset-1">
 
-            <p class="med_p">
+            <p class="small_p">
                My life was always surrounded by events! My parents hosted an annual St George’s Feast in our home, where 
 			   we often had a turnaround of 200+ guests every year. It was always fun. I enjoyed inviting my family, friends & strangers 
 			   to celebrate the feast. I spent the lead up time preparing and talking about St George and why we celebrated the feast,
@@ -99,9 +99,9 @@
    
 
     <div class="jumbotron bg_white text_jumbo2">
-        <div class="container">
+        <div class="col-lg-10 col-lg-offset-1">
 
-            <p class="med_p">
+            <p class="small_p">
 				The only thing I never liked is the camera, but I guess that’s part of the job. If you’re part of the bridal
 				party, you’re followed by the camera. I’ve dreamed about opening my own events and tourism business since 2006. 
 				I’ve built my connections in the industry, and it’s a grand, competitive one. Finally, I’m here and I’m ready. I’ve 
@@ -133,9 +133,9 @@
     </div> <!-- /.jumbotron-->
 
     <div class="jumbotron bg_white text_jumbo">
-        <div class="container">
+        <div class="col-lg-10 col-lg-offset-1">
 
-            <p class="med_p">
+            <p class="small_p">
                All these different weddings have one thing in common; confused brides who appreciated the direction. Most brides have a 
 			   vision of what their wedding day should look like, but have no idea how to get there or the cost involved in getting there, 
 			   not only the dollar value but the emotional and physical investment. They also don’t always have the cash to spend on a planner.  
@@ -169,9 +169,9 @@
 
 
     <div class="jumbotron bg_white text_jumbo3">
-        <div class="container">
+        <div class="col-lg-10 col-lg-offset-1">
 
-            <p class="med_p">
+            <p class="small_p">
 				Events don’t only mean weddings and engagements. That’s why I divide them into three different events: there are the 
 				heart-to-heart events, the corporate, and the tourism events.  
 				Tourism events are those occasions where people make memories that belong to a theme and to Queensland. I’ve been to 
@@ -202,9 +202,9 @@
     </div> <!-- /.jumbotron-->
 
     <div class="jumbotron bg_white text_jumbo3">
-        <div class="container">
+        <div class="col-lg-10 col-lg-offset-1">
 
-            <p class="med_p">
+            <p class="small_p">
                 I saw it, and it healed my heart that had bled every time I had landed in that city. Besides the buildings, 
 				the traffic and the people who never smiled, I finally met people outside who smiled from ear to ear,
 				there were beautiful buildings that invited you to come in and trams that roamed to places I didn’t know existed.
@@ -237,9 +237,9 @@
     </div> <!-- /.jumbotron-->
 
     <div class="jumbotron bg_white text_jumbo3">
-        <div class="container">
+        <div class="col-lg-10 col-lg-offset-1">
 
-            <p class="med_p">
+            <p class="small_p">
                 Yes, you could say I love traveling! It’s not the travel I’m drawn to. I’m naturally a more grounded person,
 				but knowledge has always been my weakness. The experience of intertwining with a different wind in a different
 				place that whispers a different story is what I chase. 
@@ -253,18 +253,18 @@
     </div> <!-- /.jumbotron-->
 
    
-    <div class="jumbotron startsection bg_white">
+    <div class="jumbotron startsection bg_orange">
         <div class="container">
 
                 <div class="row">
                     <div class="col-md-4 col-md-offset-4">
-                         <img src="<?php echo $svgpath ?>" class="tcnyou" alt="Responsive image" />
-                         <h1 class="font-bebas">& YOU </h1>
+                         <img src="_/svg/tc_logo_white.svg" class="tcnyou" alt="Time Capsule events and you" />
+                         <h1 class="font-bebas white_txt">& YOU </h1>
                         
                     </div>
                 </div>
 
-                <button id="getstarted" type="button" class="btn btn-success center-block">Let's Get Started</button>
+                <button id="getstarted_inverted" type="button" class="btn btn-white center-block">Let's Get Started</button>
             
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->

@@ -48,8 +48,9 @@
             <div class="row pushdown70px">
                 <div class = "col col-lg-8 col-lg-offset-2">
                     <h1 class="font-bebas2 header_color">CORPORATE SERVICES</h1>
-                    <p class="med_p font-writing text_color">
-                        We understand the stress and time strain attached to the corporate world. Our coordinators have been there, and we can help you get it under control. We understand the corporate world. All it takes is one phone call and the corporate event organizing is someone else’s problem. We take care of the entertainment, food, venue, invites, transport and everything in between. 
+                    <p class="med_p text_color">
+                        We understand the stress and time strain attached to the corporate world. Our coordinators have been there, and we can help you get it under control. </p>
+                    <p class="med_p text_color"> We understand the corporate world. All it takes is one phone call and the corporate event organizing is someone else’s problem. We take care of the entertainment, food, venue, invites, transport and everything in between. 
                     </p>
                 </div>
 
@@ -115,12 +116,9 @@
                          <h1 class="font-bebas">& YOU </h1>
                         
                     </div>
-                         
-
-
                 </div>
 
-                <button id="getstarted" type="button" class="btn btn-success center-block">Let's Get Started</button>
+                <button id="getstarted" type="button" class="btn btn-<?php echo $bg_color ?> center-block">Let's Get Started</button>
             
         </div> <!-- /.container-->
     </div> <!-- /.jumbotron-->
